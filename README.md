@@ -14,7 +14,7 @@ This guide will assist you in exploring the possibilities of autonomous navigati
 5. 2S Battery Holder (x1)
 6. N20 300 RPM Motors (x2)
 7. Motor Wheels (x2)
-8. Push Button (x1)
+8. Push Button (x2)
 9. N20 Motor Mounting Brackets (x2)
 
 You'll find the schematics and complete code for the model in the code and images folders of this repository, so you can start building right away!
