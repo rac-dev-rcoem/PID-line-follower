@@ -2,7 +2,7 @@
 
 In the realm of robotics, creating autonomous vehicles that can navigate predefined paths is both a fascinating and practical endeavor. Utilizing Arduino technology and sensors, you can build a line-following robot capable of navigating lines or paths with precision.
 
-[![Line Follower](https://github.com/rac-dev-rcoem/PID-line-follower/blob/main/images/line-follower.png)](https://github.com/rac-dev-rcoem/PID-line-follower/blob/main/video/line_follower.mp4)
+[![Line Follower](https://github.com/rac-dev-rcoem/PID-line-follower/blob/main/images/line-follower.png)](https://github.com/rac-dev-rcoem/PID-line-follower/blob/main/video/line_follower.MP4)
 
 This guide will assist you in exploring the possibilities of autonomous navigation using Arduino with an engaging and practical project: Line Follower.
 
